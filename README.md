@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/pasansandeepa6" target="blank"><img src="https://img.shields.io/twitter/follow/pasansandeepa6?logo=twitter&style=for-the-badge" alt="pasansandeepa6" /></a> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on **PahanaEdu.**
 
 - 🌱 I’m currently learning **Java,Python**
@@ -16,6 +20,16 @@
 - 📫 How to reach me **pasansandeepa72726@gmail.com**
 
 - ⚡ Fun fact **Call me as miniboss**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
