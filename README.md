@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Pasan Sandeepa</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;, I'm Pasan Sandeepa</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+welcome+to+my+profile+&hearts;++;I'm+a+Software+Engineering+Student,;Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
