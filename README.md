@@ -13,7 +13,7 @@
 
 <h3 align="center">I'm studying as an undergraduate with a keen interest in mobile and desktop application development.</h3>
 
-<img src="https://profile-counter.glitch.me/scar1109/count.svg">
+<img src="https://profile-counter.glitch.me/Scar1109/count.svg">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chey9" alt="chey9" /></a> </p>
