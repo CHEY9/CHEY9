@@ -21,7 +21,6 @@
 <p align="left"> <a href="https://twitter.com/pasansandeepa6" target="blank"><img src="https://img.shields.io/twitter/follow/pasansandeepa6?logo=twitter&style=for-the-badge" alt="pasansandeepa6" /></a> </p>
 
 
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
