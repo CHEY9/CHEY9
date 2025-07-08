@@ -13,9 +13,9 @@
 
 <h3 align="center">I'm studying as an undergraduate with a keen interest in mobile and desktop application development.</h3>
 
-<img src="https://profile-counter.glitch.me/Scar1109/count.svg">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chey9" alt="chey9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pasansandeepa6" target="blank"><img src="https://img.shields.io/twitter/follow/pasansandeepa6?logo=twitter&style=for-the-badge" alt="pasansandeepa6" /></a> </p>
